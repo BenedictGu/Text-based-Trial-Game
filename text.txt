@@ -1,0 +1,104 @@
+[Bot: Class Trial begins now! I’m the helpful tutorial bot! So, you’ve been given a few new commands! Firstly, type <refute> plus a statement’s number to argue that a certain line is wrong! You’ll then be prompted for another input. Here, you should put down the number of the piece of evidence that proves it to be wrong!
+Priestess: Let’s begin, I suppose. We need to determine how this man died.
+Hunter: That’s pretty clear, Sis, he got hit in the back of the head!
+Diplomat: We should also, however, consider the poison. It’s possible that he died from that rather than the blow to his head.
+&
+[Detective: The Autopsy Report says he died from the blow. I don’t think it was the poison.
+[Priestess: Can we really trust that bear’s information? He doesn’t seem very honest.
+[Monokuma: Hey, despite my outward appearance, I can assure you that this file is one hundred percent accurate! I’m not allowed to tamper with the trial or investigation in any way!
+[Fencer: Well, if we can take this as accurate, the next step is to determine why there was poison on him.
+Sculptor: Yeah, that did strike me as weird. The killer should have tried for a more silent method rather than blunt force.
+Diplomat: Well, the obvious answer from my profession is that the killer was detected when trying to poison the victim, forcing their hand.
+Hunter: Well, we don’t even know if the poison was an option. The killer might not have been able to reach it.
+Fencer: Of course they could reach it. They brought it into the room, right?
+&
+[Detective: Well, the bottle that held the poison appeared to be one of the vials that the Pharmacologist used. I wouldn’t know where else to get those bottles, so it’s quite likely that he was the one who brought it into the room.
+[Sculptor: So it was the Pharmacologist trying to poison the other person?
+[Detective: It’s possible, but we can’t confirm it just yet.
+[Diplomat: What a conundrum. It’s a shame that one of us knows for certain.
+[Hunter: If we’re gonna find out who that is, we gotta see who he met with and why!
+[Bot: Hey, another tip for you! In this upcoming debate, you gotta agree with someone! It’s the same thing as refuting, but type <agree> instead!
+Fencer: He had to have gone to the classroom, that much is clear.
+Diplomat: Yes, but he should have gone to another student’s dorm as well.
+Priestess: But why would he do that? He had no reason to go to the classroom in that case.
+Sculptor: Yeah, if he was meaning to poison someone, it’s harder in a more open space like the classroom!
+&
+[Detective: Someone actually saw him head toward the other person’s room. That person was the Sculptor!
+[Diplomat: It’s only natural. It’s very hard to have a secret meeting without telling the other person to go.
+[Fencer: But is there any evidence that the other person went?
+[Hunter: I mean, he’s dead. I assume he didn’t break his own neck…
+Priestess: Still, I see no reason why he’d want to do such a thing! Honesty and openness are far better solutions!
+Diplomat: See, there’s a sensible idea! If his intentions were good, he wouldn’t have met in secret.
+Fencer: That makes sense, but we can’t guarantee his intentions were evil either.
+Hunter: Come on! He don’t have a motive other than killing the victim! What else could it be?
+&
+[Detective: His journal says he wanted to reveal himself. I don’t know what that means, but it sounds like he didn’t set up this meeting to kill the other person.
+[Sculptor: Yes he did! He made the poison, didn’t he?
+[Diplomat: This does raise a few questions, though. What could he be revealing to the individual, and why to them?
+[Detective: I think the logical thing to reveal here is that he has skill at making poisons. I still don’t see why he’d hide that.
+[Priestess: What if he really wasn’t the Ultimate Pharmacologist after all?
+[Fencer: You mean he’s the Ultimate Poisoner?
+[Monokuma: DING DING DING! That is absolutely correct! You’ve encountered what I like to call a Darkshift! This man was not, in fact, the Ultimate Pharmacologist, but the Ultimate Poisoner! AH-HAHAHAHAHAHAHAHA!
+[Hunter: That’s crazy…
+[Sculptor: I knew it! He was trying to poison his victim!
+[Detective: Regardless of intention, this does insinuate that he was the one to bring the poison into the room.
+[Fencer: So he was trying to reveal who he really was.
+[Priestess: Why wouldn’t he just say that to the group?
+[Diplomat: Not a smart idea to do that when tensions already run so high. He’d just make himself a target.
+Hunter: I wonder why nothing tipped us off before this. Even his room seemed so normal.
+Diplomat: I agree, nothing would hint at there being poison housed in his room at all.
+Fencer: I still don’t trust this bear. We shouldn’t take his words to be the truth.
+&
+[Detective: There was evidence, actually. There was a bottle of some form of antidote on his desk. I bet it was the antidote to the poison he had on him.
+[Fencer: That’s probably true. I’m still not sure I can believe this, though… He was such a nice person…
+[Monokuma: Life’s tough, get over it! Back to finding a murderer!
+[Hunter: You’re a psycho, you know that?
+[Diplomat: However, he has the power here, we should do as he says. Let’s move on.
+Priestess: I can’t believe that he would have only the one poison, would he?
+Fencer: But isn’t that the only possibility? If he had others, we would have found them by now.
+Hunter: Yeah, he didn’t exactly have a way to dispose of ‘em, did he? Would have been very suspicious.
+Sculptor: He has to have more! No way the Ultimate Poisoner would just stop making poisons!
+Diplomat: Not to mention, he couldn’t hide the vials very well, as we all recognized them as his.
+&
+[Detective: He could have thrown them away when he was on trash duty. No one would question him carrying a trash bag, especially his own.
+Hunter: What was he gonna do, toss em in a dumpster? We would have seem them eventually!
+Priestess: He could have put them in the incinerator… But the bottles wouldn’t burn up, would they?
+Fencer: The whole disposal idea is stupid. He just didn’t make any more!
+&
+[Detective: You’re right, Priestess, the bottles woudn’t have burned up. However, during the investigation Monokuma ranted at me that someone had left a chunk of melted glass at the bottom of the incinerator.
+[Monokuma: Oh, did I do that? Oops!
+Fencer: Still, I don’t think that he burned the poisons. There’s no evidence that the poison was in the bottles that he burned at the time.
+Diplomat: I don’t see why he would separate the two…
+Sculptor: He was specifically trying to throw us off! He burned the bottles but put the poison in spare containers! I bet you every single item on that shelf is actually toxic!
+&
+[Detective: He did burn the poisons. The soot in the furnace proves that. A lot of smoke went through the pipe, and it clearly wasn’t the glass burning, so it must have been their contents.
+Diplomat: Are you mad? The toxins would fill the air!
+Hunter: I gotta agree with the Diplomat here. The slats in the front of the incinerator would pump poison smoke into the air around him.
+Fencer: That would be fatal, I’m sure.
+&
+[Detective: It wouldn’t kill you if you covered those slats. I expect he did just that, with this towel.
+[Priestess: Oh… He really did burn his poisons.
+[Sculptor: I don’t understand why he would do that…
+[Diplomat: Anyway, now that we know he’s the poisoner with complete certainty, are there any clues to point us toward the killer?
+Hunter: Well, the Fencer seemed to have been poisoned! Maybe she did it!
+Fencer: What? I vomited because of the stress of seeing a DEAD BODY!
+Priestess: Calm yourself, girl. I have faith that you are not the killer.
+Diplomat: We could also imagine that he tried to poison her at an earlier date and failed.
+&
+[Detective: No, the Fencer didn’t vomit from stress. She was poisoned, though she may not have realized it.
+[Fencer: I didn’t realize it? What are you talking about?
+Fencer: I didn’t kill him! Why do you suspect me?
+Hunter: Get off her case! It’s just the stress…
+Diplomat: We’ve already established that the poison wasn’t in use at the time of the murder. How would it have been ingested?
+&
+[Detective: There was a small patch in the poison powder where it looks like something had impacted. However, we never found anything else with poison on it. It could be that the killer took it with them, and perhaps tried to clean it off without realizing it had dropped in the poison!
+[Priestess: But that still wouldn’t prove that it was the Fencer who did this.
+[Hunter: Everyone just stop fighting!
+Diplomat: We can’t confirm that she did it.
+Sculptor: It just doesn’t add up!
+Fencer: Besides, if I used my swords, they would have bent before they dealt that much force.
+Priestess: It’s true! She can’t have done it!
+Hunter: I won’t believe that…
+&
+[Detective: Except Monokuma said your swords are designed to not bend. You hit him in the back of the head, and your thrust broke his neck. You couldn’t exactly walk across the hall to clean your bloodied sword, so you probably tried to wipe it clean, getting some poison on you and poisoning yourself in the process!
+[Fencer: Yeah… You’re right. I did it, exactly as you say. It’s just… He scared me with his revelation. I lost control out of fear.
